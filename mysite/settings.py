@@ -25,7 +25,7 @@ SECRET_KEY = 'w$^)#(4-frvwcl=n21lcihi!cb6%dg8rx0%k_r$y1km80&&2@7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<geo>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'geopm94.pythonanywhere.com']
 
 
 # Application definition
